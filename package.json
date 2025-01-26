@@ -1,0 +1,17 @@
+{
+  "name": "video-tube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "tube",
+    "video-tube"
+  ],
+  "author": "Ali Haider",
+  "license": "ISC",
+  "description": "Backend project similar to the video hosting platforms like youtube."
+}
