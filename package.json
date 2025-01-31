@@ -15,6 +15,7 @@
   "license": "ISC",
   "description": "Backend project similar to the video hosting platforms like youtube.",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
